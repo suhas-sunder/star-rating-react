@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# Simple Star Rating Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a simple star rating component. It's a standalone component that allows users to rate something by clicking on stars. The project is not based on any tutorials; instead, it's a product of my own experimentation and exploration of ideas.
 
-Currently, two official plugins are available:
+I enjoy undertaking quick projects like this for fun, as they provide an opportunity to experiment with different concepts and technologies. Moreover, these projects serve as quick refreshers, allowing me to sharpen my skills in a hands-on manner.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to explore the code and provide any feedback or suggestions. Enjoy!
 
-## Expanding the ESLint configuration
+![image](https://github.com/suhas-sunder/star-rating-react/assets/77464593/c2866a65-a6f2-4601-8c1f-5c06151622ae)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+---
 
-- Configure the top-level `parserOptions` property like this:
+**About Me:**
+- Name: Suhas Sunder
+- GitHub: [suhas-sunder](https://github.com/suhas-sunder)
+- LinkedIn: [s-sunder](https://www.linkedin.com/in/s-sunder/)
+- Personal Website: [www.suhassunder.com](https://www.suhassunder.com)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+**Technical Skills:**
+- Tools, Frameworks, and Libraries: React, Tailwind CSS, PostgreSQL, Prisma ORM, Node.js, Express.js, and more.
+- Languages: HTML5, CSS3, JavaScript, TypeScript, SQL, SASS.
